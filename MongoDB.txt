@@ -1,0 +1,8 @@
+Prisijungimas prie duomenu bazes
+s001_db (vartotojas s001, bet tik DB s001_db)
+
+bendra info
+mongodb+srv://<username>:<password>@mongodb-vikostudents.qprun5m.mongodb.net/<username>_db
+
+asmeninis
+mongodb+srv://s002:MRCWY5rCfOAeKWDm@mongodb-vikostudents.qprun5m.mongodb.net/s002_db
