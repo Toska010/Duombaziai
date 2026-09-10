@@ -1,0 +1,8 @@
+cd Desktop
+cd Duombaziai
+git init
+git remote add origin https://github.com/Toska010/Duombaziai.git
+git branch -M main
+git add .
+git commit -m "duombaziai"
+git push origin main
