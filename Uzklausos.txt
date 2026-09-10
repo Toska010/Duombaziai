@@ -1,0 +1,3 @@
+db.testeris.insertOne({vardas: "Petras", pavarde: "Petraitis", amzius: 25, aktyvus: true})
+db.testeris.insertOne({vardas: "Jokubas", pavarde: "Dagys", amzius: 7, aktyvus: false, grupe: "Ismestas"})
+db.testeris.find()
